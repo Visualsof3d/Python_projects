@@ -1,3 +1,6 @@
+"""
+This is the simple countdown project which display the remaining days left to achieve your goal.
+"""
 import datetime
 
 print("Enter your goal with a deadline and separate it by colon(:)")
